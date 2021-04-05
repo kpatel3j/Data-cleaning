@@ -1,4 +1,4 @@
-I am learning how to clean data using python with pandas library.
+Learning how to clean data of Heart disease_UCI data-set from Kaggle using python with pandas library.
 
 The entire data cleaning process is divided into sub-tasks as shown below.
 
